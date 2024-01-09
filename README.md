@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Ilnur], a passionate teenage programmer with a love for coding. Currently, I'm immersed in projects that involve PHP, C#, Python, JS, and SQL. My main focus is on developing Firtex, a decentralized blockchain built in C#.
+I'm Ilnur, a passionate teenage programmer with a love for coding. Currently, I'm immersed in projects that involve PHP, C#, Python, JS, and SQL. My main focus is on developing Firtex, a decentralized blockchain built in C#.
 
 ## 🚀 About Firtex
 
